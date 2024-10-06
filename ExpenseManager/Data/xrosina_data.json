@@ -1,0 +1,31 @@
+{
+  "Username": "xrosina",
+  "Transactions": [
+    {
+      "Type": "Expense",
+      "Value": 45,
+      "Category": "Utilities",
+      "Date": "08/06/2024"
+    },
+    {
+      "Type": "Income",
+      "Value": 54,
+      "Category": "Salary",
+      "Date": "08/06/2024"
+    },
+    {
+      "Type": "Income",
+      "Value": 45,
+      "Category": "Hello",
+      "Date": "06/06/2024"
+    },
+    {
+      "Type": "Expense",
+      "Value": 45,
+      "Category": "Kl",
+      "Date": "05/06/2024"
+    }
+  ],
+  "ExpenseCategories": [ "Rent", "Utilities", "Kl" ],
+  "IncomeCategories": [ "Salary", "Hello" ]
+}
